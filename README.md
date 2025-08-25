@@ -41,3 +41,6 @@ Thesis-project/
 └── README.md                  # Project description
 
 ```
+
+> **Note:** Datasets are not included due to size and licensing restrictions.
+> Please refer to the thesis document for dataset details.
