@@ -15,23 +15,30 @@ The goal is to compare unimodal and multimodal approaches, and to assess the eff
 ```
 Thesis-project/
 │
-├── chest_case/ # Experiments for chest X-rays
-│ ├── data_prep.ipynb
-│ ├── train_deit.ipynb
-│ ├── train_tinybert.ipynb
-│ ├── train_fusion.ipynb
-│ ├── train_clip.ipynb
-│ └── utils.py
+├── chest_case/                # Experiments for chest X-rays
+│   ├── data_prep.ipynb
+│   ├── train_deit.ipynb
+│   ├── train_tinybert.ipynb
+│   ├── train_fusion.ipynb
+│   ├── train_clip.ipynb
+│   └── utils.py
 │
-├── skeletal_case/ # Experiments for skeletal X-rays
-│ ├── data_prep.ipynb
-│ ├── train_deit.ipynb
-│ ├── train_tinybert.ipynb
-│ ├── train_fusion.ipynb
-│ ├── train_clip.ipynb
-│ ├── fracture_dataset.py
-│ └── utils.py
+├── skeletal_case/             # Experiments for skeletal X-rays
+│   ├── data_prep.ipynb
+│   ├── train_deit.ipynb
+│   ├── train_tinybert.ipynb
+│   ├── train_fusion.ipynb
+│   ├── train_clip.ipynb
+│   ├── fracture_dataset.py
+│   └── utils.py
 │
-├── requirements.txt # Dependencies
-└── README.md # Project description
+├── thesis/                    # Thesis document
+│   ├── Thesis.pdf
+│   └── Thesis.tex             # optional, if you include source LaTeX
+│
+├── presentation/              # Thesis defense slides
+│   └── Presentation.pptx
+│
+└── README.md                  # Project description
+
 ```
