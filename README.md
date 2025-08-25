@@ -34,7 +34,6 @@ Thesis-project/
 │
 ├── thesis/                    # Thesis document
 │   ├── Thesis.pdf
-│   └── Thesis.tex             # optional, if you include source LaTeX
 │
 ├── presentation/              # Thesis defense slides
 │   └── Presentation.pptx
