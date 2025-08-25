@@ -1,6 +1,6 @@
 # Thesis Project – Multimodal Fusion for Medical Imaging
 
-This repository contains the code and experiments from my Master's thesis on multimodal deep learning for medical imaging.  
+This repository contains the code, thesis document, and presentation from my Bachelor's thesis on **multimodal deep learning for medical imaging**. 
 The project explores **fusion of vision (X-ray images) and language (radiology reports)** using Transformer-based models such as **DeiT**, **TinyBERT**, and **CLIP**, applied to two clinical cases:
 
 - **Chest X-rays** (multi-label classification of 13 abnormalities + no finding)  
