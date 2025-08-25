@@ -15,7 +15,7 @@ The goal is to compare unimodal and multimodal approaches, and to assess the eff
 ```
 Thesis-project/
 │
-├── chest_case/                # Experiments for chest X-rays
+├── Chest_case/                # Experiments for chest X-rays
 │   ├── data_prep.ipynb
 │   ├── train_deit.ipynb
 │   ├── train_tinybert.ipynb
@@ -23,7 +23,7 @@ Thesis-project/
 │   ├── train_clip.ipynb
 │   └── utils.py
 │
-├── skeletal_case/             # Experiments for skeletal X-rays
+├── Skeletal_case/             # Experiments for skeletal X-rays
 │   ├── data_prep.ipynb
 │   ├── train_deit.ipynb
 │   ├── train_tinybert.ipynb
@@ -32,11 +32,11 @@ Thesis-project/
 │   ├── fracture_dataset.py
 │   └── utils.py
 │
-├── thesis/                    # Thesis document
-│   ├── Thesis.pdf
+├── Thesis/                    # Thesis document
+│   ├── Thesis Bahenda.pdf
 │
-├── presentation/              # Thesis defense slides
-│   └── Presentation.pptx
+├── Presentation/              # Thesis defense slides
+│   └── Thesis Presentation.pptx
 │
 └── README.md                  # Project description
 
